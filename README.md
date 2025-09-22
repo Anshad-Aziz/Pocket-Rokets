@@ -8,5 +8,8 @@ Short Description:
 3. Output: A formatted plan, stored in SQLite.
 4. Interface: Streamlit app with pages for creating new plans and viewing history.
 
-
+**Setup/Run Instructions**
+1. Set environment variables or use Streamlit secrets
+2. Install Dependencies
+3. Run: streamlit run app.py
 
