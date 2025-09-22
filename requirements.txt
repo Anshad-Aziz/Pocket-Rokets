@@ -1,0 +1,1 @@
+pip install langchain langchain-groq langchain-community streamlit requests sqlite3
